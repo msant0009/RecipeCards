@@ -29,7 +29,12 @@ struct RecipeView: View {
                 .frame(height: 300)
                 .background(LinearGradient(gradient: Gradient(colors: [Color(.gray).opacity(0.3), Color(.gray)]), startPoint: .top, endPoint: .bottom))
             
+       
+            
             VStack(spacing: 30){
+                Spacer()
+                Spacer()
+                Spacer(minLength: 0)
                 Text(recipe.name)
                     .font(.largeTitle)
                     .bold()

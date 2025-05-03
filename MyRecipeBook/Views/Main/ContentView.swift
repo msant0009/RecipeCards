@@ -3,7 +3,9 @@
 //  MyRecipeBook
 //
 //  Created by Mark Santoro on 5/2/25.
-//  Reference app: https://www.youtube.com/watch?v=uSanD_pFwis
+//  Reference app:
+//  Part1 https://www.youtube.com/watch?v=uSanD_pFwis
+//  Part2 https://youtu.be/uqkUumqFiF8
 
 import SwiftUI
 
